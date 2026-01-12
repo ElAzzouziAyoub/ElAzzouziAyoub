@@ -18,10 +18,10 @@ I focus on understanding how things work under the hood—whether it’s backend
 <a href="https://linkedin.com/in/ayoub-el-azzouzi-367754332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-el-azzouzi-367754332" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,go,css,html,js,vue" />
   </a>
 </p>
 
