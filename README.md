@@ -11,8 +11,6 @@ I enjoy working close to the fundamentals: how software communicates over networ
 
 I focus on understanding how things work under the hood—whether it’s backend services, network protocols, or learning algorithms—so I can reason about performance, correctness, and trade-offs instead of relying blindly on tools or frameworks..</p>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ayoub-el-azzouzi-367754332/](https://www.linkedin.com/in/ayoub-el-azzouzi-367754332/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayoub-el-azzouzi-367754332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-el-azzouzi-367754332" height="30" width="40" /></a>
