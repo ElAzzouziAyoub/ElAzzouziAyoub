@@ -19,6 +19,7 @@ I focus on understanding how things work under the hood—whether it’s backend
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>   [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)         </p>
+<p>  
+![My Skills](https://skillicons.dev/icons?i=go,cpp,linux,git,vue,firebase&perline=6)      </p>
 
 
