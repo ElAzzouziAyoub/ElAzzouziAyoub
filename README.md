@@ -5,6 +5,13 @@
 
 - 📫 How to reach me **ayoubelazzouzi45@gmail.com**
 
+- <p> I’m a computer science student focused on backend and systems development.
+I like building things close to how the machine actually works: HTTP servers,
+concurrency models, schedulers, and low-level abstractions.
+
+I care more about understanding fundamentals than using frameworks blindly.
+Most of my projects are written to learn *why* things work, not just *how*.</p>
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/ayoub-el-azzouzi-367754332/](https://www.linkedin.com/in/ayoub-el-azzouzi-367754332/)
 
 <h3 align="left">Connect with me:</h3>
