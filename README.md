@@ -12,14 +12,17 @@ I focus on understanding how things work under the hood—whether it’s backend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayoub-el-azzouzi-367754332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-el-azzouzi-367754332" height="30" width="40" /></a>
+<a href="mailto:ayoubelazzouzi45@gmail.com" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+    alt="ayoubelazzouzi45@gmail.com"
+    height="30"
+    width="40"
+  />
+</a>
 
 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" /> **ayoubelazzouzi45@gmail.com**
-  </a>
-</p>
 </p>
 
 <h3 align="left">Languages:</h3>
