@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayoub El Azzouzi</h1>
 <h3 align="center">Passionate Computer Scientist at UM6P</h3>
+![bloggif_6965288848acd](https://github.com/user-attachments/assets/e638db48-aad3-4197-9202-419651681dce)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elazzouziayoub" alt="elazzouziayoub" /></a> </p>
 
