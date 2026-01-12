@@ -4,17 +4,12 @@
 ![ezgif-270c907620b7d0dc](https://github.com/user-attachments/assets/3fa3d51b-6bb0-4f57-98b9-bb6646dd4f2c)
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elazzouziayoub" alt="elazzouziayoub" /></a> </p>
-
 - 📫 How to reach me **ayoubelazzouzi45@gmail.com**
 
-- <p> I’m a computer science student focused on backend and systems development.
-I like building things close to how the machine actually works: HTTP servers,
-concurrency models, schedulers, and low-level abstractions.
+- <p> I’m a computer science student interested in programming across systems, networking, and artificial intelligence.
+I enjoy working close to the fundamentals: how software communicates over networks, how programs execute and scale, and how abstractions are built from low-level primitives.
 
-I care more about understanding fundamentals than using frameworks blindly.
-Most of my projects are written to learn *why* things work, not just *how*.</p>
+I focus on understanding how things work under the hood—whether it’s backend services, network protocols, or learning algorithms—so I can reason about performance, correctness, and trade-offs instead of relying blindly on tools or frameworks..</p>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ayoub-el-azzouzi-367754332/](https://www.linkedin.com/in/ayoub-el-azzouzi-367754332/)
 
