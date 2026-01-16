@@ -29,7 +29,7 @@ I focus on understanding how things work under the hood—whether it’s backend
     <img src="https://skillicons.dev/icons?i=docker,git,grafana,jenkins,kubernetes,npm,vim,nvim" />
   </a>
 </p>
-<h3 align="left">Operating systems :</h3>
+<h3 align="left">Favorite Operating systems :</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali,parrot" />
